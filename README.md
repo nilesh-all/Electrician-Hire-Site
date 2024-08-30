@@ -1,6 +1,4 @@
-# Milestone Project 1 - LSH Electricians
-
-Click here for a link to the live project on GitHub [LSH_Electricians_MS1](https://leah1977.github.io/LSH_Electricians_MS1/).
+**Electrician-Hire-Site**
 
 This is a User-Centric Frontend Development Project for Milestone 1.
 
